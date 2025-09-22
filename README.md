@@ -1,4 +1,4 @@
-# qVelifox
+# <p align="center">qVelifox</p>
 
 <div align="center">
   <a href="https://discord.com/invite/votre_lien_discord">
