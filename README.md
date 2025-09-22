@@ -1,22 +1,5 @@
 # <p align="center">qVelifox</p>
 
-<div align="center">
-  <a href="https://discord.com/invite/votre_lien_discord">
-    <img src="https://img.shields.io/badge/Discord-qVelifox-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://twitter.com/@VelifoxGlg">
-    <img src="https://img.shields.io/badge/Twitter-@VelifoxGlg-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-<!--   <a href="[Later]">
-    <img src="https://img.shields.io/badge/[Later]-blue?style=for-the-badge&logo=react&logoColor=white">
-  </a> -->
-  <a href="mailto:velifoxxyz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-velifoxxyz@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
----
-
 ### Hey there! 👋
 
 I'm qVelifox. I'm a developer who started coding when I was 11, and since then, I've had a blast exploring everything related to programming. While my favorite things to build are Minecraft Bedrock add-ons and anything in web development, I just love make any idea that pops into my head.
@@ -74,12 +57,22 @@ I'm a jack-of-all-trades and always learning something new. Here's a quick look 
 
 ### My Projects
 
-Feel free to check out what I've been building in my repos. Every project is a new step in my learning journey and a great way to showcase what I'm passionate about.
-
-_(Add some short, cool descriptions of your favorite projects here)_
+<a href="https://discord.com/invite/votre_lien_discord">
+    <img src="https://img.shields.io/badge/No Projects Right Now...-A80000?style=for-the-badge">
+</a>
 
 ---
 
 ### Let's Connect
-
-Feel free to follow my work or just say hi on Discord!
+  <a href="https://discord.com/invite/votre_lien_discord">
+    <img src="https://img.shields.io/badge/Discord-qVelifox-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://twitter.com/@VelifoxGlg">
+    <img src="https://img.shields.io/badge/Twitter-@VelifoxGlg-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+<!--   <a href="[Later]">
+    <img src="https://img.shields.io/badge/[Later]-blue?style=for-the-badge&logo=react&logoColor=white">
+  </a> -->
+  <a href="mailto:velifoxxyz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-velifoxxyz@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
