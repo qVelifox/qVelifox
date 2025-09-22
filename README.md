@@ -19,7 +19,7 @@
 
 ### Hey there! 👋
 
-I'm **qVelifox**. I'm a developer who started coding when I was 11, and since then, I've had a blast exploring everything related to programming. My favorite things to build are **Minecraft Bedrock add-ons**, **Discord bots**, and anything in **web development**.
+I'm qVelifox. I'm a developer who started coding when I was 11, and since then, I've had a blast exploring everything related to programming. While my favorite things to build are Minecraft Bedrock add-ons and anything in web development, I just love make any idea that pops into my head.
 
 ---
 
