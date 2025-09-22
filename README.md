@@ -9,7 +9,6 @@ I'm qVelifox. I'm a developer who started coding when I was 11, and since then, 
 ### My Skills
 
 I'm a jack-of-all-trades and always learning something new. Here's a quick look at what I'm currently working with:
-
 <br>
 
 #### Languages
