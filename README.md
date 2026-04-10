@@ -11,6 +11,7 @@ I'm qVelifox. I'm a developer who started coding when I was 11, and since then, 
 I'm a jack-of-all-trades and always learning something new. Here's a quick look at what I'm currently working with:
 <br>
 
+< align="center" div>
 #### Languages
 
 <span>
@@ -59,7 +60,7 @@ I'm a jack-of-all-trades and always learning something new. Here's a quick look 
 <a href="https://discord.com/invite/votre_lien_discord">
     <img src="https://img.shields.io/badge/No Projects Right Now...-A80000?style=for-the-badge">
 </a>
-
+</div>
 ---
 
 ### Let's Connect
