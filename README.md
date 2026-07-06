@@ -8,7 +8,6 @@ I've been coding since I was 11, and I've never really stopped exploring everyth
 
 ### My Skills
 
-I'm a jack-of-all-trades and always learning something new. Here's a quick look at what I'm currently working with:
 <br>
 
 <p align="center">
