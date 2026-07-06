@@ -7,9 +7,6 @@ I've been coding since I was 11, and I've never really stopped exploring everyth
 ---
 
 ### My Skills
-
-<br>
-
 <p align="center">
 <kbd>
 <kbd>Languages & Frontend</kbd>
