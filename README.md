@@ -2,7 +2,7 @@
 
 ### Hey there! 👋
 
-I'm qVelifox. I'm a developer who started coding when I was 11, and since then, I've had a blast exploring everything related to programming. While my favorite things to build are Minecraft Bedrock add-ons and anything in web development, I just love make any idea that pops into my head.
+I've been coding since I was 11, and I've never really stopped exploring everything related to programming. These days I spend most of my time on <strong>web development</strong>, but I also building <strong>small apps in C#</strong>. I used to make a lot of Minecraft Bedrock add-ons, a bit less now, but the urge to build whatever idea pops into my head hasn't changed.
 
 ---
 
@@ -11,47 +11,23 @@ I'm qVelifox. I'm a developer who started coding when I was 11, and since then, 
 I'm a jack-of-all-trades and always learning something new. Here's a quick look at what I'm currently working with:
 <br>
 
-< align="center" div>
-#### Languages
-
-<span>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</span>
-
-<br>
-
-#### Frameworks & Libraries
-
-<span>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</span>
-
-<br>
-
-#### Databases
-
-<span>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-</span>
-
-<br>
-
-#### Tools & Software
-
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</span>
+<p align="center">
+<kbd>
+<kbd>Languages & Frontend</kbd>
+<br><br>
+<img height="45" src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,lua,py,cs" />
+</kbd>
+<kbd>
+<kbd>Runtimes & Frameworks</kbd>
+<br><br>
+<img height="45" src="https://skillicons.dev/icons?i=vite,electron,nodejs,vue,dotnet" />
+</kbd>
+<kbd>
+<kbd>Tools & Software</kbd>
+<br><br>
+<img height="45" src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma" />
+</kbd>
+</p>
 
 ---
 
@@ -61,6 +37,7 @@ I'm a jack-of-all-trades and always learning something new. Here's a quick look 
     <img src="https://img.shields.io/badge/No Projects Right Now...-A80000?style=for-the-badge">
 </a>
 </div>
+
 ---
 
 ### Let's Connect
