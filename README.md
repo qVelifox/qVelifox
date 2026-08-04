@@ -12,7 +12,7 @@ I've been coding since I was 11, and I've never really stopped exploring everyth
 <kbd>Languages & Frontend</kbd>
 <br><br>
 <img height="45" src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,lua,py,cs" />
-</kbd>
+</kbd><br><br>
 <kbd>
 <kbd>Runtimes & Frameworks</kbd>
 <br><br>
@@ -24,28 +24,3 @@ I've been coding since I was 11, and I've never really stopped exploring everyth
 <img height="45" src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma" />
 </kbd>
 </p>
-
----
-
-### My Projects
-
-<a href="https://discord.com/invite/votre_lien_discord">
-    <img src="https://img.shields.io/badge/No Projects Right Now...-A80000?style=for-the-badge">
-</a>
-</div>
-
----
-
-### Let's Connect
-  <a href="https://discord.com/invite/votre_lien_discord">
-    <img src="https://img.shields.io/badge/Discord-qVelifox-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://twitter.com/@VelifoxGlg">
-    <img src="https://img.shields.io/badge/Twitter-@VelifoxGlg-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-<!--   <a href="[Later]">
-    <img src="https://img.shields.io/badge/[Later]-blue?style=for-the-badge&logo=react&logoColor=white">
-  </a> -->
-  <a href="mailto:velifoxxyz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-velifoxxyz@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
