@@ -5,8 +5,7 @@
 I've been coding since I was 11, and I've never really stopped exploring everything related to programming. These days I spend most of my time on <strong>web development</strong>, but I also building <strong>small apps in C#</strong>. I used to make a lot of Minecraft Bedrock add-ons, a bit less now, but the urge to build whatever idea pops into my head hasn't changed.
 
 ---
-
-### My Skills
+<h3 align="center">My Skills</h1>
 <p align="center">
 <kbd>
 <kbd>Languages & Frontend</kbd>
