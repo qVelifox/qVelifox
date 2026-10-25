@@ -1,25 +1,36 @@
-# <p align="center">qVelifox</p>
+<h1 align="center">qVelifox</h1>
 
-### Hey there! 👋
+<p align="center">Web development · Desktop apps · Automation</p>
 
-I've been coding since I was 11, and I've never really stopped exploring everything related to programming. These days I spend most of my time on <strong>web development</strong>, but I also building <strong>small apps in C#</strong>. I used to make a lot of Minecraft Bedrock add-ons, a bit less now, but the urge to build whatever idea pops into my head hasn't changed.
-
----
-<h3 align="center">My Skills</h1>
 <p align="center">
-<kbd>
-<kbd>Languages & Frontend</kbd>
-<br><br>
-<img height="45" src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,lua,py,cs" />
-</kbd><br><br>
-<kbd>
-<kbd>Runtimes & Frameworks</kbd>
-<br><br>
-<img height="45" src="https://skillicons.dev/icons?i=vite,electron,nodejs,vue,dotnet" />
-</kbd>
-<kbd>
-<kbd>Tools & Software</kbd>
-<br><br>
-<img height="45" src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma" />
-</kbd>
+  Coding since 11. I build web apps, desktop tools and Discord bots.
+</p>
+
+<br>
+
+<h3 align="center">Web development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,vue,ts,vite" alt="React, JavaScript, Tailwind CSS, Vue, TypeScript and Vite" height="40">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40">
+  <img src="https://cdn.simpleicons.org/fastify/888888" alt="Fastify" title="Fastify" width="40" height="40">
+  <img src="https://skillicons.dev/icons?i=express,postgres,php" alt="Express, PostgreSQL and PHP" height="40">
+</p>
+
+<h3 align="center">Desktop &amp; automation</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,electron" alt="C#, .NET and Electron" height="40">
+  <img src="https://skillicons.dev/icons?i=discordjs,py,lua" alt="discord.js, Python and Lua" height="40">
+</p>
+
+<h3 align="center">Tools &amp; deployment</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker" alt="Linux and Docker" height="40">
+  <img src="https://skills.syvixor.com/api/icons?i=coolify" alt="Coolify" title="Coolify" height="40">
+  <img src="https://skillicons.dev/icons?i=git,figma,vscode,visualstudio" alt="Git, Figma, VS Code and Visual Studio" height="40">
 </p>
